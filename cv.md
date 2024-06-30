@@ -12,18 +12,17 @@ I am interested in programming, I am engaged in self-education
 - JavaScript(Basic)
 - Python(Basic)
 - Git
+- Linux
 ### **Code Example**
 ```
-function testIf(a, b) {
- var x;
-   if (a < b) { 
-     x = a + b;
-   } else if (a > b) { 
-     x = a - b;
-     } else { 
-       x = a * b;
-     }
-    return x;
+function getCountOfOddNumbers(number) {
+  let s = 0;
+  for (let i = 1; i <= Math.abs(number); i += 1) {
+    if (i % 2 !== 0) {
+      s += 1;
+    }
+  }
+  return s;
 }
 ```
 ### **Work Experience**
