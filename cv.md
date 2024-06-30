@@ -1,8 +1,10 @@
 ### **Full Name**
 Nikolai Golovchik
 ### **Contact Information**
-- Phone: +37 529 2641633
-- email: golovchik666@gmail.com
+- phone: +37 529 2641633
+- email: nikolay.golovchik@gmail.com
+- linkedin: www.linkedin.com/in/nikolay-golovchik-a82546182
+- skype: Nikolay Golovchik
 - GitHub: [strateg213](https://github.com/strateg213?tab=repositories)
 ### **Brief Self-Introduction**
 I am interested in programming, I am engaged in self-education
